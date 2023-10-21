@@ -1,17 +1,7 @@
-<<<<<<< HEAD
-# Sample Hardhat Project
+## PolyTalk - A Web3 based decentralized chatting application
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project is a basic dApp for real-time chatting with your friends.
+It connects you with your friends and you can chat in real time with them.
+Being decentralized, it ensures privacy and security to your messages and prevents any loss of data.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
-=======
-# Chat_dApp
->>>>>>> 5a0ee135e1527282b1a09e3fb38396b015efa5db
+This is a basic dApp that my teammates and I made just delving into the web3 world. Hope you like it!
